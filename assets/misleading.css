@@ -1,0 +1,26 @@
+#title_box{
+    background-color: #06402B;
+    padding: 30px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    color: lightgreen;
+}
+
+#age_image{
+    width: 100%;
+}
+
+.grass{
+    text-align: center;
+    background-color: green;
+    background-image: url("grass.jpg");
+    background-size: cover;
+    padding:10px;
+}
+
+.card{
+    padding: 10px;
+    margin: 10px;
+    color: #06402B;
+}

@@ -1,0 +1,7 @@
+YEAR,GAS,CROCS,EGGS,GOOGLE,BEER
+2020,2.17,1386,1.506,620,25.8
+2021,3.01,2313,1.674,934,25.3
+2022,3.95,3555,2.857,1388,24.9
+2023,3.52,3962,2.796,1416,24.5
+UNITS,Dollars/Gallon,Millions of Dollars,Dollars per Dozen,Searches,Gallons per Capita
+SOURCE,https://www.statista.com/statistics/204740/retail-price-of-gasoline-in-the-united-states-since-1990/,https://www.macrotrends.net/stocks/charts/CROX/crocs/revenue,https://fred.stlouisfed.org/series/APU0000708111,https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=How%20to%20play%20football&hl=en,https://www.beerinstitute.org/statistics/
